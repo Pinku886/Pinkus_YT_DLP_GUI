@@ -1,6 +1,6 @@
 # <img src="app_logo.png" width="48" align="center"> Pinkus YT-DLP GUI
 
-![Project Banner](project_banner.png)
+![Project Banner](project_banner.PNG)
 
 A high-performance, **premium graphical interface** for `yt-dlp`, meticulously crafted for reliability, speed, and ease of use. This tool is designed to bypass modern bot detection, provide deep control over media streams, and offer a truly **portable, self-contained** experience.
 
